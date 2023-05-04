@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">719878119794-j5bif9h74vd19s7koo0cq4l2aj1ki1pt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">719878119794</string>
+    <string name="google_api_key" translatable="false">AIzaSyCObhN2Z08hn1bsRsbjt4cfitX-96zjOMY</string>
+    <string name="google_app_id" translatable="false">1:719878119794:android:91ab23f3857119bb52fdeb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCObhN2Z08hn1bsRsbjt4cfitX-96zjOMY</string>
+    <string name="google_storage_bucket" translatable="false">zegocludedemo.appspot.com</string>
+    <string name="project_id" translatable="false">zegocludedemo</string>
+</resources>
